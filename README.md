@@ -13,3 +13,6 @@
  - $alipayPublicKey     //支付宝公钥，账户中心->密钥管理->开放平台密钥，找到添加了支付功能的应用，根据你的加密类型，查看支付宝公钥
 # 在线演示：
 https://yaofan.mensd.top
+# 请作者喝杯茶
+![微信图片_20241019071201](https://github.com/user-attachments/assets/e1fc6f8e-1f76-4a75-a478-7dd4830cdbca)
+![微信图片_20241019071208](https://github.com/user-attachments/assets/a1059b7d-1c8e-4908-9103-811e9557d0ee)
