@@ -15,7 +15,4 @@
 https://yaofan.mensd.top
 ## 请作者喝杯茶
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://github.com/user-attachments/assets/e1fc6f8e-1f76-4a75-a478-7dd4830cdbca" alt="请作者喝杯茶1" style="max-width: 200px; height: auto;">
-  <img src="https://github.com/user-attachments/assets/a1059b7d-1c8e-4908-9103-811e9557d0ee" alt="请作者喝杯茶2" style="max-width: 200px; height: auto;">
-</div>
+![image](https://github.com/user-attachments/assets/aeaadab1-96af-4608-a4e6-479b902ff2b9)
