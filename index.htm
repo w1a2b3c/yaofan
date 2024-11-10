@@ -153,19 +153,7 @@ var loading = layer.load();
 						var surl = 'alipayqr://platformapi/startapp?saId=10000007&qrcode='+encodeURIComponent(data.url)					 
 						if(isQQ){
 						  $('#payurl').attr("href",surl);
-						  $('#payurl').click();
-						}else{
-							if(isPC){
-								$('#qrcode').html('<img src="'+data.qr+'" style="width:140px;" /><br />支付宝扫码支付'); 
-							}else{
-						        window.location.href = surl;
-							}
-						}
-						 checkpay(data.oid);
-						 c = setInterval(function(){checkpay(data.oid)},4000);						
-                	}else{
-                		if(data.status=="400"){
-                			getpayqr(m,n);
+			
                 		}else{
                 	       layer.msg(data.message);
                 		}
